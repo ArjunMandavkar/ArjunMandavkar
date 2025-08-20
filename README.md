@@ -54,7 +54,7 @@ Most of my work revolves around:
 ## 📫 Connect with Me
 
 [<img width=40px src="https://github.com/user-attachments/assets/404e4035-3d60-4805-bf9f-301e2a5eab9d">](https://www.linkedin.com/in/arjunmandavkar/) 
-[<img width=40px src="https://github.com/user-attachments/assets/4e0cd564-58f5-41ca-9352-25e9a28505de">](mandavkararjun91@gmail.com)
+[<img width=40px src="https://github.com/user-attachments/assets/4e0cd564-58f5-41ca-9352-25e9a28505de">](mailto:mandavkararjun91@gmail.com)
 
 <!---
 ArjunMandavkar/ArjunMandavkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
